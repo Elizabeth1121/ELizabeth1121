@@ -14,17 +14,17 @@
 
  ## Tech Stack
 <div id="skill_icons" align="center">
-   ## 🏆 Achievements
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,cs,html,css,py,dotnet,git,github" alt="Skill Icons" />
     </a>
   </p>
+</div>
 
-  
- ## 🏆 Achievements
- - Completed The Full Stack .NET C# Bootcamp from The Tech Academy
-![Certificate]([https://github](https://github.com/Elizabeth1121/ELizabeth1121/blob/main/Images/Lynch%20Graduate%20Certificate.PNG))
+## 🏆 Achievements
+- Completed The Full Stack .NET C# Bootcamp from The Tech Academy
+<div id="Achievements" align="center">
+  <img src="https://github.com/Elizabeth1121/ELizabeth1121/blob/main/Images/Lynch%20Graduate%20Certificate.PNG" alt="" />
 </div>
 
 <!---

@@ -1,5 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM1aHRsMzR6NmZzZWs1cGJzZWNyaXVodDk5c2preGJzYjd6d2N5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/yWnfMrmiqLQuZtFkt8/giphy.gif" width="100"/>
+
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/elizabeth-lynch-7258481b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </a>
+</div>
 </div>
 
 - 👋 Hi, I’m @Elizabeth

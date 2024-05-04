@@ -13,7 +13,7 @@
 <div id="body" align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,csharp,html,css,py,dotnet,git,github" alt="Skill Icons" />
+      <img src="https://skillicons.dev/icons?i=js,cs,html,css,py,dotnet,git,github" alt="Skill Icons" />
     </a>
   </p>
 

@@ -10,9 +10,10 @@
 
 ![Elizabeth1121's Stats](https://github-readme-stats.vercel.app/api?username=Elizabeth1121&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+## Tech Stack
+
 <div id="body" align="center">
   <p align="center">
-    ## Tech Stack
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,cs,html,css,py,dotnet,git,github" alt="Skill Icons" />
     </a>

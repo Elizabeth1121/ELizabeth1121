@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdjMzJ3bnZxZHk2aHc5MmRlcDFvdmc1dmc5YnJkdHQ1N2djcmQxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM1aHRsMzR6NmZzZWs1cGJzZWNyaXVodDk5c2preGJzYjd6d2N5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/yWnfMrmiqLQuZtFkt8/giphy.gif" width="100"/>
 </div>
 
 - 👋 Hi, I’m @Elizabeth

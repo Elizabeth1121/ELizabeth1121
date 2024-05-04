@@ -10,10 +10,14 @@
 
 ![Elizabeth1121's Stats](https://github-readme-stats.vercel.app/api?username=Elizabeth1121&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,cs,html,css,py,dotnet,git,github)](https://skillicons.dev)
-
 <div id="body" align="center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,csharp,html,css,py,dotnet,git,github" alt="Skill Icons" />
+    </a>
+  </p>
+
+  
  ## 🏆 Achievements
  - Completed The Full Stack .NET C# Bootcamp from The Tech Academy
 ![Certificate]([https://github](https://github.com/Elizabeth1121/ELizabeth1121/blob/main/Images/Lynch%20Graduate%20Certificate.PNG))

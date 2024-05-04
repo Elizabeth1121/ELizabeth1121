@@ -11,7 +11,7 @@
 
  ## 🏆 Achievements
  - Completed The Full Stack .NET C# Bootcamp from The Tech Academy
-!Certificate
+![Certificate](Images/Lynch Graduate Certificate.PNG)
 
 <!---
 ELizabeth1121/ELizabeth1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,6 +12,7 @@
 
 <div id="body" align="center">
   <p align="center">
+    ## Tech Stack
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,cs,html,css,py,dotnet,git,github" alt="Skill Icons" />
     </a>

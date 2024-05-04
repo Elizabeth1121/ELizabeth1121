@@ -34,6 +34,11 @@
   <img src="https://github.com/Elizabeth1121/ELizabeth1121/blob/main/Images/Lynch%20Graduate%20Certificate.PNG" alt="" />
 </div>
 
+## Credits
+- https://www.freecodecamp.org/news/create-personalized-github-profile-page/
+- https://www.sitepoint.com/github-profile-readme/
+- https://giphy.com/
+
 <!---
 ELizabeth1121/ELizabeth1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

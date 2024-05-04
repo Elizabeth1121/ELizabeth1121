@@ -8,11 +8,12 @@
 - 💞️ I’m looking to collaborate on Open Source Projects...
 - 📫 How to reach me itsybitsy1121@outlook.com ...
 
-![Elizabeth1121's Stats](https://github-readme-stats.vercel.app/api?username=Elizabeth1121&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div id="Elizabeth1121_stats" align="center">
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Elizabeth1121&show_icons=true&theme=radical" />
+</div>
 
 ## Tech Stack
-
-<div id="skillicons" align="center">
+<div id="skill_icons" align="center">
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,cs,html,css,py,dotnet,git,github" alt="Skill Icons" />

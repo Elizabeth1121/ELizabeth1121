@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/MYI6NK4JOGpOzOriEg" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg">via GIPHY</a></p>
+</div>
+
 - 👋 Hi, I’m @Elizabeth
 - 👀 I’m interested in C# Softwear development ...
 - 🌱 I’m currently learning C#...
